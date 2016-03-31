@@ -7,6 +7,9 @@
 .parallax-window {
     min-height: 400px;
     background: transparent;
+    line-height: 400px;
+
+    h2 {color:$white;font-weight:bold;line-height:9.4;}
 }
 /* Footer Styles */
 
